@@ -17,7 +17,11 @@ cd social-network-app
 ```
 3.	Create and activate a virtual environment (optional):
 ```
-python -m venv venv source venv/bin/activate
+python -m venv .venv
+```
+
+```
+.venv\Scripts\activate
 ```
 4.	Install the required Python packages:
 ```
