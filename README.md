@@ -41,7 +41,7 @@ Contact:
 
 If you have any questions, suggestions, or feedback, you can reach me through the following communication channels:
 OGOKDAS1@gmail.com
-+90 5422185544
++90 542 218 55 44
 
 ![(Home Page)](https://github.com/ogokdas/social-network/blob/main/png/dblog.PNG)
 
